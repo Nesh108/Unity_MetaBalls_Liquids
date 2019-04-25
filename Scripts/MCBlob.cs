@@ -484,10 +484,6 @@ public class MCBlob : MonoBehaviour
     int[] ft;
     Vector2[] fuv;
 
-    //Last Status Post
-    private float lt = 0f;
-
-
     /*Unity and Sample Specific*/
     private void renderMesh()
     {
