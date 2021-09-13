@@ -15,7 +15,7 @@ A simple liquid simulation using [MetaBalls](https://wiki.unity3d.com/index.php?
   <img alt="New Metaballs" src="/Gifs/new_metaballs.gif" width="350">
 </p>
 
-The new MetaBalls are based on the same come with some improvements, such as gravity, collisions and grounded water effect (the metaballs "splash" when hitting the ground).
+The new MetaBalls are based on the same code with some improvements, such as gravity, collisions and grounded water effect (the metaballs "splash" when hitting the ground).
 
 ## Credits
 
