@@ -19,6 +19,6 @@ The new MetaBalls are based on the same code with some improvements, such as gra
 
 ## Credits
 
- * Metaball implementation by Brian R. Cowan http://www.briancowan.net/ 
- * Metaball tables at http://local.wasp.uwa.edu.au/~pbourke/geometry/polygonise/
- * Examples at http://www.briancowan.net/unity/fx
+ * Metaball implementation by Brian R. Cowan http://www.briancowan.net/ [DEAD - 01/2022]
+ * Metaball tables at http://local.wasp.uwa.edu.au/~pbourke/geometry/polygonise/ [DEAD - 01/2022]
+ * Examples at http://www.briancowan.net/unity/fx [DEAD - 01/2022]
