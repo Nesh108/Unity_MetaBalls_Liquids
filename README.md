@@ -1,4 +1,4 @@
-# Unity_MetaBalls_Liquids
+# Unity MetaBalls Liquids
 A simple liquid simulation using [MetaBalls](https://wiki.unity3d.com/index.php?title=MetaBalls).
 
 ### Before
